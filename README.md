@@ -12,4 +12,7 @@ For the period of 2002-2016, Chicago has had, for the most part, crime rates abo
 
 ### Final Results
 + The SGD Classifier with class weight set to 'balanced' and loss set to 'log' performed the best when using data scaled with MinMaxScaler
-+ 
++ Location description was the most important feature when looking at individual coefficients from the SGD Classifier
++ After averaging the coefficients for each type of crime and all dummy variables, the following features were the most important:  X/Y coordinates (longitude/latitude), day type (weekday/weekend and no holiday/federal holiday), distance from the city center of Chicago, season, time of day, day of the week, and the federal holiday. 
+
+### Repository Structure
