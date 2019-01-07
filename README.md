@@ -1,2 +1,3 @@
-# Springboard
-Code for my Springboard course: Intermediate Data Science
+# Springboard Capstone 
+## A Spatial and Temporal Analysis of Crimes in Chicago
+### Problem and Intent for Research
