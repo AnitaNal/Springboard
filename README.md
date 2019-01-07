@@ -38,7 +38,7 @@ For the period of 2002-2016, Chicago has had, for the most part, crime rates abo
   + Evaluated several models and extracted important features
  
 #### Documents
-+ **Capstone_Proposal.pdf**
++ **Capstone_Proposal.md**
   + Initial capstone proposal 
 + **Capstone_DataWrangling.pdf**
   + Report documenting data wrangling procedures
