@@ -30,4 +30,12 @@ For the period of 2002-2016, Chicago has had, for the most part, crime rates abo
   + Added column for distance from closest 
 + **Holidays.ipynb**
   + Added columns for what federal holiday it was and if there was a holiday or not
-  
++ **ChicagoCrime_EDA.ipynb**
+  + Script for EDA
++ **Setup_Xy.ipynb**
+  + Sampled 3 million reports and saved separte files for the features (X) and the target (y)
++ **Model_Evaluation.ipynb**
+  + Evaluated several models and extracted important features
+ 
+#### Documents
++ **Cap
