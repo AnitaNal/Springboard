@@ -16,3 +16,18 @@ For the period of 2002-2016, Chicago has had, for the most part, crime rates abo
 + After averaging the coefficients for each type of crime and all dummy variables, the following features were the most important:  X/Y coordinates (longitude/latitude), day type (weekday/weekend and no holiday/federal holiday), distance from the city center of Chicago, season, time of day, day of the week, and the federal holiday. 
 
 ### Repository Structure
+#### Scripts:
++ **ChicagoCrime_CleanData_Part1.ipynb**
+  + Cleaned crime data and added columns such as day of the week, season, street....
++ **ChicagoCrime_CleanData_Part2.ipynb**
+  + Filled in missing locations, wards, and communities
++ **CityCenter_Police.ipynb**
+  + Added columns for distance from Chicago city center and closest police station
++ **Bus_Train_Stops.ipynb**
+  + Added columns for distance from closest bus stop and train stop
++ **Liquor_Stores.ipynb**
+  + Filtered liquor stores from Chicago business license data 
+  + Added column for distance from closest 
++ **Holidays.ipynb**
+  + Added columns for what federal holiday it was and if there was a holiday or not
+  
