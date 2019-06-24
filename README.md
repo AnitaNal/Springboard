@@ -1,10 +1,10 @@
 # Springboard
 This repository contains scripts used for my Springboard course: Intermediate Data Science. 
 
-**Springboard_Assignments**
+**Assignments**
 + Contains scripts for my assignments for Springboard
 
-**Springboard_Capstone_Project**
+**Capstone_Project**
 + Contains all documents (scripts, papers, presentations) pertinent to my capstone project for Springboard
 
 # Springboard Capstone:  
